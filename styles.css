@@ -21,10 +21,7 @@ html, body {
     height: 100%;
 }
 
-
-
 body {
-    margin: 0;
     font-family: var(--bs-body-font-family);
     font-size: var(--bs-body-font-size);
     font-weight: var(--bs-body-font-weight);
@@ -38,6 +35,10 @@ body {
     align-items: center;
     align-content: center;
     justify-content: center;
+  }
+
+  .about {
+    padding-top: 20vw;;
   }
 
   hr {
